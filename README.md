@@ -9,7 +9,7 @@ A command-line tool for managing todo lists, with features like adding, editing,
 - Delete a task
 - List all tasks
 - Persistent storage of tasks in a JSON file
-- 
+  
 
 ## Usage
 
