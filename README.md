@@ -9,17 +9,7 @@ A command-line tool for managing todo lists, with features like adding, editing,
 - Delete a task
 - List all tasks
 - Persistent storage of tasks in a JSON file
-
-## Installation
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/your-username/todo-list-manager.git
-    cd todo-list-manager
-    ```
-
-2. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
+- 
 
 ## Usage
 
